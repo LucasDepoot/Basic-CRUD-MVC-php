@@ -4,6 +4,7 @@
 ## Structure du Projet
 
 Le projet est structuré comme suit :
+
 -`public`
   - `index.php`: Point d'entrée de l'application.
 - `app`
