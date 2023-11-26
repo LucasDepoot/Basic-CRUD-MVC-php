@@ -4,8 +4,7 @@
 ## Structure du Projet
 
 Le projet est structuré comme suit :
-
--`public`
+- `public`
   - `index.php`: Point d'entrée de l'application.
 - `app`
   - `controllers`: Contient les fichiers de contrôleurs.
